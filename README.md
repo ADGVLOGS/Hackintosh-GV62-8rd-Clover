@@ -1,17 +1,18 @@
-# Hackintosh-GV62-8rd-Clover
-
-# Table of contents
-1. [Problem Statement](#problem)
-  1.1 [What is my specifications and requirements?](#problem)
-  1.2 [Laptop](#laptop)
-2. [Issues](#issues)
-  2.1 [Project Status](#status)
-3. [GPU Support](#gpu)
-
 <div>
 <img src="https://www.svgrepo.com/show/148371/clover.svg" height=85px>
 <img src="https://www.svgrepo.com/show/7385/apple.svg" height=85px>
 </div>
+
+# Hackintosh-GV62-8rd-Clover
+
+# Table of contents
+1. [Problem Statement](#problem)
+&nbsp;1.1 [What is my specifications and requirements?](#problem)
+&nbsp;1.2 [Laptop](#laptop)
+2. [Issues](#issues)
+&nbsp;2.1 [Project Status](#status)
+3. [GPU Support](#gpu)
+
 
 ### Problem Statement
 <p><a name="problem"></a>
