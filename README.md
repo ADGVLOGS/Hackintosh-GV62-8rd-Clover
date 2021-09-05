@@ -7,15 +7,16 @@
 
 ### Problem Statement
 <p>
-I need to code Objective C iOS/macOS native applications. <br>
-Problem with Apple's ecosystem prices are rediculous. I am not paying top dollar to piece of shit hardware. My MSi GV62-8rd will be a strong contester in this battle.
+I need to code Objective C to create iOS/macOS native applications. <br>
+Problem with Apple's ecosystem prices are rediculous. I am not paying top dollar for piece of shit hardware. My MSi GV62-8rd will be a strong contester in this battle.
   
+<br>
 What is my specifications and expectations? <br>
-- my NVME SSD needs to work
-- Needs to duel boot with Windows 
-- My GTX 1050ti needs to work
-- My sound/bluetooth needs to be working
-
+<br>
+- my NVME SSD needs to work <br>
+- Needs to duel boot with Windows <br>
+- My GTX 1050ti needs to work<br>
+- My sound/bluetooth needs to be working<br>
 </p>
 
 
