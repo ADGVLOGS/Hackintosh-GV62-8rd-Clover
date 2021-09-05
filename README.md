@@ -1,9 +1,11 @@
 # Hackintosh-GV62-8rd-Clover
 
+![image](https://upload.wikimedia.org/wikipedia/commons/0/05/Apple.svg)
+
 ### Problem Statement
 <p>
 I need to code Objective C iOS/macOS native applications. <br>
-Problem is Apple's Ecosystem prices are rediculous. I am not paying top dollar to piece of shit hardware. My MSi GV62-8rd will be a strong contester in this battle.   
+Problem is Apple's ecosystem prices are rediculous. I am not paying top dollar to piece of shit hardware. My MSi GV62-8rd will be a strong contester in this battle.   
 </p>
 
 https://www.msi.com/Laptop/GV62-8RD/Specification
