@@ -1,6 +1,6 @@
 # Hackintosh-GV62-8rd-Clover
 
-<img src="https://www.svgrepo.com/show/148371/clover.svg" height=50px>
+<img src="https://www.svgrepo.com/show/148371/clover.svg" height=85px>
 
 ### Problem Statement
 <p>
