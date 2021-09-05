@@ -5,6 +5,8 @@
 
 # Hackintosh-GV62-8rd-Clover
 
+#### Ashlin Darius Govindasamy
+
 # Table of contents
 1. [Problem Statement](#problem) <br>
 1.1 [What is my specifications and requirements?](#problem) <br>
