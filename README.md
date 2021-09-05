@@ -1,6 +1,6 @@
 # Hackintosh-GV62-8rd-Clover
 
-![image](https://www.svgrepo.com/download/148371/clover.svg)
+![image](https://www.svgrepo.com/show/148371/clover.svg)
 
 ### Problem Statement
 <p>
