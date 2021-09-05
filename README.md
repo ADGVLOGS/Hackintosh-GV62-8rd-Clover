@@ -4,6 +4,8 @@
 </div>
 
 # Hackintosh-GV62-8rd-Clover
+<img src="https://asset.msi.com/resize/image/global/product/product_2_20180212152735_5a8141e7cd029.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png" height="250px">
+ 
 
 #### Ashlin Darius Govindasamy
 
@@ -27,10 +29,9 @@ What is my specifications and requirements? <a name="specs"></a><br>
   
 <br>
   
-<img src="https://asset.msi.com/resize/image/global/product/product_2_20180212152735_5a8141e7cd029.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png" height="100px">
-  
+ 
 <h4>Specs of Laptop</h4>
-````
+<pre>
 CPU	Up to 8th Gen. Intel® Core™ i7 Processor
 OS	Windows 10 Home
 DISPLAY	15.6" FHD (1920x1080), Wide-View
@@ -57,7 +58,8 @@ BATTERY	41 Whr
 AC ADAPTER	150W adapter
 DIMENSION (WXDXH)	383 x 260 x 22~29 mm
 WEIGHT (W/ BATTERY)	2.2 kg
-````
+</pre>
+
 Requirements <br>  
 - my NVME SSD needs to work <br>
 - Needs to duel boot with Windows <br>
