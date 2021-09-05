@@ -1,6 +1,6 @@
 # Hackintosh-GV62-8rd-Clover
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apple.svg/240px-Apple.svg.png)
+![image](https://www.svgrepo.com/download/148371/clover.svg)
 
 ### Problem Statement
 <p>
