@@ -19,9 +19,8 @@ What is my specifications and expectations? <br>
 - My sound/bluetooth needs to be working<br>
 </p>
 
-<a>
-https://www.msi.com/Laptop/GV62-8RD/Specification
-</a>
+#### This is my laptop i am using.
+<a href="https://www.msi.com/Laptop/GV62-8RD/Specification" >My MSi laptop</a>
 
 #### Status on kexts and bootloader.
 ````
