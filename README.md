@@ -6,12 +6,12 @@
 # Hackintosh-GV62-8rd-Clover
 
 # Table of contents
-1. [Problem Statement](#problem)
-1.1 [What is my specifications and requirements?](#problem)
-1.2 [Laptop](#laptop)
-2. [Issues](#issues)
-2.1 [Project Status](#status)
-3. [GPU Support](#gpu)
+1. [Problem Statement](#problem) <br>
+1.1 [What is my specifications and requirements?](#problem) <br>
+1.2 [Laptop](#laptop) <br>
+2. [Issues](#issues) <br>
+2.1 [Project Status](#status) <br>
+3. [GPU Support](#gpu)<br>
 
 
 ### Problem Statement
