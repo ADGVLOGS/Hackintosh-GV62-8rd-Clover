@@ -26,6 +26,39 @@ Problem with Apple's ecosystem prices are rediculous. I am not paying top dollar
 What is my specifications and requirements? <a name="specs"></a><br>
   
 <br>
+  
+<img src="https://asset.msi.com/resize/image/global/product/product_2_20180212152735_5a8141e7cd029.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png" height="100px">
+  
+<h4>Specs of Laptop</h4>
+````
+CPU	Up to 8th Gen. Intel® Core™ i7 Processor
+OS	Windows 10 Home
+DISPLAY	15.6" FHD (1920x1080), Wide-View
+15.6" FHD (1920x1080), IPS-Level
+CHIPSET	Intel® HM370
+GRAPHICS	GeForce® GTX 1050 Ti with 4GB GDDR5
+MEMORY	DDR4-2400
+DDR4-2666, 2 Slots, Max 32GB,
+STORAGE CAPABILITY	1x M.2 SSD Combo (NVMe PCIe Gen3 / SATA ) SSD 1x 2.5" SATA HDD HDD
+WEBCAM	HD type (30fps@720p)
+KEYBOARD	Backlight Keyboard (Single-Color, Red)
+COMMUNICATION	Gb LAN
+802.11 ac Wi-Fi + Bluetooth v5
+AUDIO JACK	1x Mic-in
+1x Headphone-out (SPDIF)
+I/O PORTS	1x Type-A USB2.0
+1x RJ45
+1x SD (XC/HC)
+1x (4K @ 30Hz) HDMI
+1x Mini-DisplayPort
+1x Type-C USB3.1 Gen1
+2x Type-A USB3.1 Gen1
+BATTERY	41 Whr
+AC ADAPTER	150W adapter
+DIMENSION (WXDXH)	383 x 260 x 22~29 mm
+WEIGHT (W/ BATTERY)	2.2 kg
+````
+Requirements <br>  
 - my NVME SSD needs to work <br>
 - Needs to duel boot with Windows <br>
 - My GTX 1050ti needs to work<br>
