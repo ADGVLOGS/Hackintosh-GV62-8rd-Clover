@@ -7,7 +7,7 @@
 <img src="https://asset.msi.com/resize/image/global/product/product_2_20180212152735_5a8141e7cd029.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png" height="250px">
  
 
-#### Ashlin Darius Govindasamy
+#### By Ashlin Darius Govindasamy
 
 # Table of contents
 1. [Problem Statement](#problem) <br>
