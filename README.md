@@ -5,14 +5,23 @@
 <img src="https://www.svgrepo.com/show/7385/apple.svg" height=85px>
 </div>
 
+
+# Table of contents
+1. [Problem Statement](#introduction)
+  1.1 [What is my specifications and requirements?](#problem)
+  1.2 [Laptop](#laptop)
+2. [Issues](#issues)
+  2.1 [Project Status](#status)
+3. [GPU Support](#gpu)
+
 ### Problem Statement
-<p>
+<p><a name="problem"></a>
 I need to code Objective C to create iOS/macOS native applications. <br>
 Problem with Apple's ecosystem prices are rediculous. I am not paying top dollar for piece of shit hardware. My MSi GV62-8rd will be a strong contester in this battle.
   
 <br>
   
-What is my specifications and requirements? <br>
+What is my specifications and requirements? <a name="specs"></a><br>
   
 <br>
 - my NVME SSD needs to work <br>
@@ -24,23 +33,23 @@ If i comply with the above i can proudly say the project was a success.
 
 </p>
 
-#### This is my laptop i am using.
+#### This is my laptop i am using. <a name="laptop"></a>
 <a href="https://www.msi.com/Laptop/GV62-8RD/Specification" >My MSi laptop</a>
 
-#### Status on kexts and bootloader.
+#### Status on kexts and bootloader.<a name="issues"></a>
 ````
 Bluetooth driver, Bluetooth, wireless available
 Existence problem (Voice waiting perfection, Mingten re-drumming one bottom) 2020.08.23
 Voice card ok, Bluetooth wireless public association
 ````
 
-## Project Status - On going
+## Project Status - On going <a name="status"></a>
 #### Currently experimenting with macOS versions
 
 ![image](https://user-images.githubusercontent.com/45560312/132132436-1017714f-691d-4991-bc05-5e9a5ec15c2c.png)
 
 
-## GPU SUPPORT
+## GPU SUPPORT <a name="gpu"></a>
 
 <table border="1">
   
