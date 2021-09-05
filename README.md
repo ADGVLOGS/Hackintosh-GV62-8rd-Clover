@@ -8,10 +8,10 @@
 
 # Table of contents
 1. [Problem Statement](#introduction)
-  1.1 [What is my specifications and requirements?](#problem)
-  1.2 [Laptop](#laptop)
+1.1 [What is my specifications and requirements?](#problem)
+1.2 [Laptop](#laptop)
 2. [Issues](#issues)
-  2.1 [Project Status](#status)
+2.1 [Project Status](#status)
 3. [GPU Support](#gpu)
 
 ### Problem Statement
