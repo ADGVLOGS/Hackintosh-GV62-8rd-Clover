@@ -7,14 +7,14 @@
 
 
 # Table of contents
-<pre>
+
 1. [Problem Statement](#problem)
   1.1 [What is my specifications and requirements?](#problem)
   1.2 [Laptop](#laptop)
 2. [Issues](#issues)
   2.1 [Project Status](#status)
 3. [GPU Support](#gpu)
-</pre>
+
 ### Problem Statement
 <p><a name="problem"></a>
 I need to code Objective C to create iOS/macOS native applications. <br>
